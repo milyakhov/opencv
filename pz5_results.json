@@ -1,0 +1,6984 @@
+{
+  "frame1.png": [
+    {
+      "class": "person",
+      "confidence": 0.909,
+      "bbox": [
+        658,
+        155,
+        1316,
+        1541
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.868,
+      "bbox": [
+        3510,
+        208,
+        3839,
+        1460
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.834,
+      "bbox": [
+        2901,
+        174,
+        3245,
+        618
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.716,
+      "bbox": [
+        2706,
+        368,
+        3778,
+        1143
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.135,
+      "bbox": [
+        1187,
+        1204,
+        1654,
+        1531
+      ]
+    },
+    {
+      "class": "traffic light",
+      "confidence": 0.13,
+      "bbox": [
+        2219,
+        346,
+        2303,
+        510
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.114,
+      "bbox": [
+        1563,
+        841,
+        1676,
+        1294
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.102,
+      "bbox": [
+        536,
+        377,
+        715,
+        545
+      ]
+    }
+  ],
+  "frame10.png": [
+    {
+      "class": "car",
+      "confidence": 0.914,
+      "bbox": [
+        3147,
+        273,
+        3839,
+        1316
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.873,
+      "bbox": [
+        729,
+        203,
+        1248,
+        1687
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.834,
+      "bbox": [
+        1286,
+        309,
+        1698,
+        1381
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.782,
+      "bbox": [
+        1155,
+        1290,
+        1693,
+        1654
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.764,
+      "bbox": [
+        1531,
+        541,
+        1754,
+        1055
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.727,
+      "bbox": [
+        1457,
+        512,
+        1755,
+        1068
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.725,
+      "bbox": [
+        2513,
+        234,
+        2989,
+        1569
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.679,
+      "bbox": [
+        2174,
+        277,
+        2445,
+        484
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.441,
+      "bbox": [
+        2981,
+        444,
+        3487,
+        1055
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.43,
+      "bbox": [
+        1593,
+        465,
+        2915,
+        1326
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.386,
+      "bbox": [
+        1562,
+        667,
+        1751,
+        1053
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.334,
+      "bbox": [
+        826,
+        977,
+        964,
+        1233
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.309,
+      "bbox": [
+        822,
+        958,
+        1041,
+        1232
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.27,
+      "bbox": [
+        2910,
+        609,
+        3098,
+        1255
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.185,
+      "bbox": [
+        1574,
+        772,
+        1750,
+        1051
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.174,
+      "bbox": [
+        809,
+        845,
+        1052,
+        1228
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.161,
+      "bbox": [
+        2817,
+        243,
+        2984,
+        808
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.15,
+      "bbox": [
+        2377,
+        486,
+        3442,
+        1249
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.126,
+      "bbox": [
+        3030,
+        684,
+        3323,
+        1127
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.123,
+      "bbox": [
+        2807,
+        255,
+        2997,
+        1434
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.115,
+      "bbox": [
+        2971,
+        636,
+        3307,
+        1229
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.112,
+      "bbox": [
+        2509,
+        572,
+        3086,
+        1298
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.107,
+      "bbox": [
+        2989,
+        436,
+        3492,
+        797
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.104,
+      "bbox": [
+        265,
+        953,
+        417,
+        1450
+      ]
+    }
+  ],
+  "frame11.png": [
+    {
+      "class": "car",
+      "confidence": 0.925,
+      "bbox": [
+        3007,
+        263,
+        3837,
+        1323
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.891,
+      "bbox": [
+        1096,
+        346,
+        1515,
+        1421
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.883,
+      "bbox": [
+        2044,
+        294,
+        2808,
+        1602
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.868,
+      "bbox": [
+        749,
+        194,
+        1232,
+        1694
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.822,
+      "bbox": [
+        1155,
+        1318,
+        1653,
+        1663
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.635,
+      "bbox": [
+        1398,
+        474,
+        3006,
+        1285
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.633,
+      "bbox": [
+        2073,
+        289,
+        2358,
+        489
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.601,
+      "bbox": [
+        2664,
+        511,
+        2947,
+        1254
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.576,
+      "bbox": [
+        2831,
+        447,
+        3344,
+        1121
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.372,
+      "bbox": [
+        1403,
+        485,
+        2351,
+        1271
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.268,
+      "bbox": [
+        1335,
+        652,
+        1530,
+        1063
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.22,
+      "bbox": [
+        2834,
+        442,
+        3343,
+        708
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.215,
+      "bbox": [
+        1371,
+        768,
+        1531,
+        1064
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.214,
+      "bbox": [
+        2344,
+        217,
+        2562,
+        470
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.213,
+      "bbox": [
+        2833,
+        449,
+        3341,
+        885
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.146,
+      "bbox": [
+        2876,
+        696,
+        3180,
+        1091
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.115,
+      "bbox": [
+        1206,
+        560,
+        1536,
+        1068
+      ]
+    }
+  ],
+  "frame12.png": [
+    {
+      "class": "person",
+      "confidence": 0.918,
+      "bbox": [
+        616,
+        214,
+        1436,
+        1686
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.909,
+      "bbox": [
+        2868,
+        251,
+        3837,
+        1318
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.775,
+      "bbox": [
+        1893,
+        305,
+        2635,
+        1600
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.764,
+      "bbox": [
+        1188,
+        437,
+        2789,
+        1266
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.58,
+      "bbox": [
+        2374,
+        479,
+        2811,
+        1255
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.527,
+      "bbox": [
+        2701,
+        443,
+        3206,
+        1038
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.363,
+      "bbox": [
+        2738,
+        681,
+        3016,
+        1111
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.268,
+      "bbox": [
+        1932,
+        307,
+        2350,
+        1590
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.243,
+      "bbox": [
+        2701,
+        443,
+        3205,
+        697
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.22,
+      "bbox": [
+        2000,
+        375,
+        2111,
+        476
+      ]
+    },
+    {
+      "class": "skateboard",
+      "confidence": 0.216,
+      "bbox": [
+        1234,
+        1304,
+        1650,
+        1672
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.207,
+      "bbox": [
+        1264,
+        1302,
+        1650,
+        1657
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.123,
+      "bbox": [
+        2075,
+        479,
+        2821,
+        1246
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.108,
+      "bbox": [
+        907,
+        1012,
+        1046,
+        1228
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.108,
+      "bbox": [
+        2181,
+        270,
+        2447,
+        1348
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.107,
+      "bbox": [
+        1107,
+        833,
+        1291,
+        1083
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.106,
+      "bbox": [
+        2261,
+        362,
+        2683,
+        1576
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.102,
+      "bbox": [
+        3331,
+        208,
+        3491,
+        314
+      ]
+    }
+  ],
+  "frame13.png": [
+    {
+      "class": "car",
+      "confidence": 0.923,
+      "bbox": [
+        2728,
+        237,
+        3791,
+        1295
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.854,
+      "bbox": [
+        577,
+        196,
+        1318,
+        1658
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.813,
+      "bbox": [
+        1687,
+        239,
+        2293,
+        1563
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.757,
+      "bbox": [
+        1219,
+        1280,
+        1657,
+        1627
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.745,
+      "bbox": [
+        551,
+        310,
+        868,
+        1378
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.737,
+      "bbox": [
+        3529,
+        20,
+        3838,
+        1528
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.67,
+      "bbox": [
+        2549,
+        416,
+        3053,
+        1046
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.62,
+      "bbox": [
+        3569,
+        30,
+        3839,
+        1234
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.555,
+      "bbox": [
+        1208,
+        409,
+        2674,
+        1212
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.354,
+      "bbox": [
+        2097,
+        456,
+        2665,
+        1229
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.197,
+      "bbox": [
+        542,
+        465,
+        2632,
+        1224
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.144,
+      "bbox": [
+        1167,
+        469,
+        1792,
+        1189
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.105,
+      "bbox": [
+        3210,
+        170,
+        3367,
+        296
+      ]
+    }
+  ],
+  "frame14.png": [
+    {
+      "class": "person",
+      "confidence": 0.906,
+      "bbox": [
+        3223,
+        63,
+        3838,
+        1550
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.867,
+      "bbox": [
+        761,
+        122,
+        1326,
+        1638
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.849,
+      "bbox": [
+        1123,
+        1188,
+        1658,
+        1613
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.846,
+      "bbox": [
+        1450,
+        210,
+        1874,
+        1557
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.761,
+      "bbox": [
+        333,
+        281,
+        756,
+        1494
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.662,
+      "bbox": [
+        1799,
+        431,
+        2517,
+        1261
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.559,
+      "bbox": [
+        2570,
+        227,
+        3448,
+        1273
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.509,
+      "bbox": [
+        2400,
+        396,
+        2906,
+        1073
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.459,
+      "bbox": [
+        2566,
+        209,
+        3838,
+        1272
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.431,
+      "bbox": [
+        1003,
+        433,
+        2517,
+        1263
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.375,
+      "bbox": [
+        513,
+        442,
+        786,
+        1046
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.314,
+      "bbox": [
+        1871,
+        246,
+        2037,
+        440
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.276,
+      "bbox": [
+        402,
+        432,
+        777,
+        1064
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.211,
+      "bbox": [
+        3658,
+        185,
+        3838,
+        309
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.204,
+      "bbox": [
+        575,
+        702,
+        780,
+        1031
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.176,
+      "bbox": [
+        1453,
+        272,
+        1881,
+        1545
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.14,
+      "bbox": [
+        861,
+        937,
+        1002,
+        1176
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.133,
+      "bbox": [
+        577,
+        756,
+        778,
+        1091
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.117,
+      "bbox": [
+        1840,
+        245,
+        2041,
+        661
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.111,
+      "bbox": [
+        3656,
+        182,
+        3838,
+        497
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.107,
+      "bbox": [
+        979,
+        862,
+        1166,
+        1151
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.105,
+      "bbox": [
+        2428,
+        632,
+        2877,
+        1078
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.103,
+      "bbox": [
+        2411,
+        392,
+        2899,
+        672
+      ]
+    }
+  ],
+  "frame15.png": [
+    {
+      "class": "person",
+      "confidence": 0.895,
+      "bbox": [
+        2956,
+        17,
+        3503,
+        1504
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.858,
+      "bbox": [
+        1180,
+        1255,
+        1709,
+        1599
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.85,
+      "bbox": [
+        786,
+        100,
+        1308,
+        1628
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.823,
+      "bbox": [
+        126,
+        304,
+        536,
+        1487
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.794,
+      "bbox": [
+        1171,
+        241,
+        1636,
+        1341
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.714,
+      "bbox": [
+        2427,
+        295,
+        3806,
+        1267
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.679,
+      "bbox": [
+        1731,
+        215,
+        1977,
+        448
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.62,
+      "bbox": [
+        1522,
+        422,
+        2376,
+        1255
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.566,
+      "bbox": [
+        2251,
+        384,
+        2763,
+        1038
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.334,
+      "bbox": [
+        243,
+        467,
+        549,
+        1067
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.326,
+      "bbox": [
+        3344,
+        193,
+        3838,
+        1221
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.25,
+      "bbox": [
+        322,
+        483,
+        557,
+        1062
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.224,
+      "bbox": [
+        1187,
+        410,
+        2376,
+        1279
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.195,
+      "bbox": [
+        1478,
+        306,
+        1620,
+        754
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.176,
+      "bbox": [
+        2860,
+        174,
+        3836,
+        1302
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.162,
+      "bbox": [
+        2257,
+        386,
+        2766,
+        651
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.158,
+      "bbox": [
+        2425,
+        115,
+        3520,
+        1272
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.152,
+      "bbox": [
+        720,
+        786,
+        1272,
+        1263
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.145,
+      "bbox": [
+        719,
+        783,
+        954,
+        1263
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.14,
+      "bbox": [
+        361,
+        598,
+        549,
+        1060
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.132,
+      "bbox": [
+        2310,
+        637,
+        2596,
+        980
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.131,
+      "bbox": [
+        258,
+        641,
+        548,
+        1072
+      ]
+    },
+    {
+      "class": "skateboard",
+      "confidence": 0.122,
+      "bbox": [
+        3391,
+        1276,
+        3521,
+        1513
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.113,
+      "bbox": [
+        375,
+        765,
+        548,
+        1070
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.107,
+      "bbox": [
+        26,
+        461,
+        172,
+        1330
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.103,
+      "bbox": [
+        3465,
+        173,
+        3827,
+        327
+      ]
+    }
+  ],
+  "frame16.png": [
+    {
+      "class": "person",
+      "confidence": 0.894,
+      "bbox": [
+        686,
+        135,
+        1469,
+        1627
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.879,
+      "bbox": [
+        2671,
+        2,
+        3184,
+        1515
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.79,
+      "bbox": [
+        0,
+        302,
+        341,
+        1481
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.696,
+      "bbox": [
+        1278,
+        1260,
+        1697,
+        1584
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.694,
+      "bbox": [
+        2299,
+        173,
+        3838,
+        1243
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.675,
+      "bbox": [
+        1625,
+        221,
+        1925,
+        442
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.54,
+      "bbox": [
+        630,
+        426,
+        2261,
+        1253
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.458,
+      "bbox": [
+        2133,
+        396,
+        2647,
+        1093
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.338,
+      "bbox": [
+        74,
+        482,
+        337,
+        1046
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.316,
+      "bbox": [
+        1275,
+        421,
+        2257,
+        1252
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.303,
+      "bbox": [
+        600,
+        607,
+        1180,
+        1265
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.289,
+      "bbox": [
+        2296,
+        389,
+        3275,
+        1267
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.252,
+      "bbox": [
+        599,
+        623,
+        961,
+        1262
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.239,
+      "bbox": [
+        2300,
+        391,
+        2857,
+        1261
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.225,
+      "bbox": [
+        2130,
+        391,
+        2643,
+        891
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.208,
+      "bbox": [
+        1030,
+        921,
+        1186,
+        1175
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.206,
+      "bbox": [
+        148,
+        531,
+        332,
+        1024
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.159,
+      "bbox": [
+        3145,
+        181,
+        3839,
+        1227
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.134,
+      "bbox": [
+        174,
+        727,
+        334,
+        1028
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.127,
+      "bbox": [
+        598,
+        605,
+        1812,
+        1286
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.121,
+      "bbox": [
+        1024,
+        893,
+        1237,
+        1179
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.12,
+      "bbox": [
+        0,
+        503,
+        213,
+        983
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.113,
+      "bbox": [
+        603,
+        612,
+        1477,
+        1273
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.111,
+      "bbox": [
+        1286,
+        429,
+        1694,
+        715
+      ]
+    },
+    {
+      "class": "backpack",
+      "confidence": 0.102,
+      "bbox": [
+        0,
+        465,
+        252,
+        985
+      ]
+    }
+  ],
+  "frame17.png": [
+    {
+      "class": "person",
+      "confidence": 0.916,
+      "bbox": [
+        2318,
+        26,
+        3008,
+        1507
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.864,
+      "bbox": [
+        1240,
+        1259,
+        1713,
+        1599
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.823,
+      "bbox": [
+        764,
+        87,
+        1374,
+        1634
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.812,
+      "bbox": [
+        2048,
+        194,
+        3742,
+        1244
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.705,
+      "bbox": [
+        1572,
+        229,
+        1822,
+        442
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.705,
+      "bbox": [
+        658,
+        210,
+        1015,
+        1345
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.638,
+      "bbox": [
+        0,
+        388,
+        172,
+        1298
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.57,
+      "bbox": [
+        433,
+        414,
+        2111,
+        1248
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.546,
+      "bbox": [
+        455,
+        714,
+        716,
+        1244
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.529,
+      "bbox": [
+        952,
+        128,
+        1338,
+        1628
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.506,
+      "bbox": [
+        1991,
+        398,
+        2533,
+        1112
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.366,
+      "bbox": [
+        2396,
+        1585,
+        3837,
+        2140
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.327,
+      "bbox": [
+        456,
+        682,
+        2048,
+        1315
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.325,
+      "bbox": [
+        3714,
+        559,
+        3838,
+        1112
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.32,
+      "bbox": [
+        0,
+        572,
+        168,
+        1004
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.222,
+      "bbox": [
+        1259,
+        415,
+        2105,
+        1248
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.217,
+      "bbox": [
+        0,
+        695,
+        170,
+        994
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.216,
+      "bbox": [
+        3709,
+        297,
+        3838,
+        1119
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.215,
+      "bbox": [
+        2783,
+        194,
+        3740,
+        1237
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.143,
+      "bbox": [
+        1989,
+        394,
+        3763,
+        1137
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.135,
+      "bbox": [
+        1523,
+        250,
+        1629,
+        427
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.114,
+      "bbox": [
+        3650,
+        295,
+        3838,
+        1056
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.108,
+      "bbox": [
+        3744,
+        232,
+        3838,
+        545
+      ]
+    }
+  ],
+  "frame18.png": [
+    {
+      "class": "person",
+      "confidence": 0.929,
+      "bbox": [
+        961,
+        90,
+        1380,
+        1661
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.919,
+      "bbox": [
+        1996,
+        79,
+        2806,
+        1508
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.891,
+      "bbox": [
+        337,
+        234,
+        789,
+        1571
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.738,
+      "bbox": [
+        3501,
+        272,
+        3838,
+        1128
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.72,
+      "bbox": [
+        1841,
+        190,
+        3615,
+        1282
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.704,
+      "bbox": [
+        1269,
+        445,
+        1953,
+        1216
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.692,
+      "bbox": [
+        1164,
+        1267,
+        1707,
+        1616
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.648,
+      "bbox": [
+        314,
+        439,
+        1947,
+        1218
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.432,
+      "bbox": [
+        298,
+        602,
+        455,
+        1187
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.422,
+      "bbox": [
+        1468,
+        237,
+        1725,
+        464
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.362,
+      "bbox": [
+        2554,
+        216,
+        3606,
+        1256
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.303,
+      "bbox": [
+        1092,
+        1388,
+        3833,
+        2136
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.283,
+      "bbox": [
+        3643,
+        248,
+        3838,
+        329
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.268,
+      "bbox": [
+        1127,
+        901,
+        1265,
+        1142
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.261,
+      "bbox": [
+        715,
+        462,
+        1044,
+        1232
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.222,
+      "bbox": [
+        1843,
+        442,
+        3433,
+        1088
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.179,
+      "bbox": [
+        1123,
+        884,
+        1360,
+        1167
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.175,
+      "bbox": [
+        265,
+        462,
+        1062,
+        1260
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.17,
+      "bbox": [
+        1833,
+        429,
+        2846,
+        1022
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.147,
+      "bbox": [
+        1836,
+        444,
+        2227,
+        988
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.142,
+      "bbox": [
+        1835,
+        437,
+        2902,
+        1289
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.112,
+      "bbox": [
+        3642,
+        250,
+        3838,
+        363
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.108,
+      "bbox": [
+        1901,
+        652,
+        2182,
+        1011
+      ]
+    }
+  ],
+  "frame19.png": [
+    {
+      "class": "person",
+      "confidence": 0.914,
+      "bbox": [
+        0,
+        240,
+        593,
+        1567
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.899,
+      "bbox": [
+        1785,
+        14,
+        2328,
+        1449
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.864,
+      "bbox": [
+        785,
+        77,
+        1487,
+        1598
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.706,
+      "bbox": [
+        1422,
+        1274,
+        1693,
+        1497
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.675,
+      "bbox": [
+        148,
+        422,
+        1777,
+        1220
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.588,
+      "bbox": [
+        1530,
+        205,
+        3410,
+        1239
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.483,
+      "bbox": [
+        1111,
+        1269,
+        1692,
+        1528
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.436,
+      "bbox": [
+        3340,
+        299,
+        3836,
+        892
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.403,
+      "bbox": [
+        2152,
+        208,
+        3409,
+        1228
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.335,
+      "bbox": [
+        3471,
+        247,
+        3722,
+        332
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.224,
+      "bbox": [
+        1729,
+        648,
+        1920,
+        1150
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.217,
+      "bbox": [
+        1092,
+        826,
+        1470,
+        1546
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.195,
+      "bbox": [
+        1266,
+        434,
+        1778,
+        1203
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.174,
+      "bbox": [
+        454,
+        357,
+        3836,
+        2118
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.158,
+      "bbox": [
+        793,
+        436,
+        1782,
+        1204
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.156,
+      "bbox": [
+        1307,
+        216,
+        1620,
+        494
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.12,
+      "bbox": [
+        1098,
+        1205,
+        1351,
+        1550
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.119,
+      "bbox": [
+        1716,
+        655,
+        2351,
+        1152
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.105,
+      "bbox": [
+        627,
+        196,
+        1603,
+        1593
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.105,
+      "bbox": [
+        410,
+        426,
+        995,
+        1195
+      ]
+    }
+  ],
+  "frame2.png": [
+    {
+      "class": "person",
+      "confidence": 0.879,
+      "bbox": [
+        736,
+        144,
+        1351,
+        1551
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.828,
+      "bbox": [
+        2865,
+        149,
+        3207,
+        580
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.703,
+      "bbox": [
+        1179,
+        1168,
+        1696,
+        1519
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.657,
+      "bbox": [
+        3350,
+        182,
+        3791,
+        1461
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.625,
+      "bbox": [
+        2608,
+        362,
+        3821,
+        1141
+      ]
+    },
+    {
+      "class": "traffic light",
+      "confidence": 0.242,
+      "bbox": [
+        2123,
+        339,
+        2207,
+        503
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.204,
+      "bbox": [
+        3686,
+        378,
+        3838,
+        679
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.201,
+      "bbox": [
+        2609,
+        408,
+        3421,
+        1115
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.184,
+      "bbox": [
+        3585,
+        400,
+        3809,
+        957
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.18,
+      "bbox": [
+        3633,
+        602,
+        3801,
+        943
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.158,
+      "bbox": [
+        910,
+        894,
+        1055,
+        1142
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.139,
+      "bbox": [
+        2814,
+        236,
+        3825,
+        1109
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.136,
+      "bbox": [
+        3341,
+        333,
+        3835,
+        1181
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.126,
+      "bbox": [
+        911,
+        880,
+        1133,
+        1151
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.125,
+      "bbox": [
+        1466,
+        834,
+        1581,
+        1264
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.11,
+      "bbox": [
+        129,
+        953,
+        255,
+        1367
+      ]
+    }
+  ],
+  "frame20.png": [
+    {
+      "class": "person",
+      "confidence": 0.9,
+      "bbox": [
+        1480,
+        31,
+        1953,
+        1180
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.875,
+      "bbox": [
+        0,
+        258,
+        350,
+        1534
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.791,
+      "bbox": [
+        0,
+        325,
+        3830,
+        2118
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.782,
+      "bbox": [
+        697,
+        122,
+        1470,
+        1494
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.682,
+      "bbox": [
+        1895,
+        222,
+        3170,
+        982
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.612,
+      "bbox": [
+        141,
+        463,
+        1590,
+        1280
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.284,
+      "bbox": [
+        1276,
+        223,
+        1488,
+        565
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.271,
+      "bbox": [
+        3575,
+        319,
+        3833,
+        454
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.243,
+      "bbox": [
+        1188,
+        212,
+        3194,
+        1106
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.223,
+      "bbox": [
+        3279,
+        269,
+        3545,
+        364
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.221,
+      "bbox": [
+        807,
+        455,
+        1593,
+        1278
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.22,
+      "bbox": [
+        1039,
+        333,
+        3839,
+        1861
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.209,
+      "bbox": [
+        85,
+        448,
+        996,
+        1218
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.179,
+      "bbox": [
+        3134,
+        278,
+        3594,
+        496
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.116,
+      "bbox": [
+        3246,
+        269,
+        3589,
+        475
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.114,
+      "bbox": [
+        1021,
+        463,
+        1596,
+        1228
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.111,
+      "bbox": [
+        105,
+        198,
+        3289,
+        1254
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.108,
+      "bbox": [
+        3218,
+        678,
+        3838,
+        1376
+      ]
+    }
+  ],
+  "frame21.png": [
+    {
+      "class": "car",
+      "confidence": 0.85,
+      "bbox": [
+        0,
+        204,
+        3840,
+        2095
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.833,
+      "bbox": [
+        1251,
+        63,
+        1654,
+        682
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.799,
+      "bbox": [
+        0,
+        419,
+        965,
+        1252
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.743,
+      "bbox": [
+        964,
+        100,
+        1346,
+        836
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.305,
+      "bbox": [
+        3108,
+        264,
+        3375,
+        368
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.299,
+      "bbox": [
+        3409,
+        315,
+        3697,
+        402
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.281,
+      "bbox": [
+        1712,
+        223,
+        2968,
+        581
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.135,
+      "bbox": [
+        316,
+        438,
+        1000,
+        1118
+      ]
+    }
+  ],
+  "frame22.png": [
+    {
+      "class": "person",
+      "confidence": 0.771,
+      "bbox": [
+        887,
+        78,
+        1364,
+        462
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.763,
+      "bbox": [
+        3,
+        367,
+        3835,
+        2118
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.649,
+      "bbox": [
+        1652,
+        230,
+        2799,
+        460
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.512,
+      "bbox": [
+        0,
+        425,
+        713,
+        802
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.444,
+      "bbox": [
+        16,
+        379,
+        3760,
+        1484
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.198,
+      "bbox": [
+        2920,
+        277,
+        3221,
+        474
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.196,
+      "bbox": [
+        2778,
+        274,
+        3522,
+        554
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.182,
+      "bbox": [
+        3205,
+        331,
+        3496,
+        521
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.181,
+      "bbox": [
+        2924,
+        280,
+        3191,
+        377
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.167,
+      "bbox": [
+        2335,
+        230,
+        2797,
+        460
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.145,
+      "bbox": [
+        2777,
+        276,
+        3206,
+        460
+      ]
+    }
+  ],
+  "frame23.png": [
+    {
+      "class": "car",
+      "confidence": 0.878,
+      "bbox": [
+        4,
+        355,
+        3834,
+        2115
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.6,
+      "bbox": [
+        2570,
+        318,
+        3370,
+        898
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.533,
+      "bbox": [
+        953,
+        96,
+        1278,
+        402
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.472,
+      "bbox": [
+        583,
+        33,
+        1019,
+        377
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.253,
+      "bbox": [
+        582,
+        32,
+        1280,
+        409
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.252,
+      "bbox": [
+        1426,
+        230,
+        2191,
+        434
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.229,
+      "bbox": [
+        1048,
+        98,
+        1280,
+        403
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.226,
+      "bbox": [
+        2720,
+        267,
+        2982,
+        346
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.207,
+      "bbox": [
+        3305,
+        443,
+        3773,
+        897
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.204,
+      "bbox": [
+        1426,
+        229,
+        2622,
+        623
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.167,
+      "bbox": [
+        1894,
+        228,
+        2629,
+        633
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.156,
+      "bbox": [
+        3522,
+        534,
+        3838,
+        1026
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.121,
+      "bbox": [
+        2094,
+        287,
+        2616,
+        622
+      ]
+    }
+  ],
+  "frame24.png": [
+    {
+      "class": "car",
+      "confidence": 0.875,
+      "bbox": [
+        2369,
+        290,
+        3209,
+        1094
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.74,
+      "bbox": [
+        871,
+        96,
+        1263,
+        527
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.676,
+      "bbox": [
+        7,
+        346,
+        3829,
+        2113
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.639,
+      "bbox": [
+        252,
+        4,
+        786,
+        437
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.619,
+      "bbox": [
+        1183,
+        201,
+        2449,
+        1003
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.298,
+      "bbox": [
+        3064,
+        0,
+        3839,
+        987
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.267,
+      "bbox": [
+        6,
+        411,
+        2485,
+        2106
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.221,
+      "bbox": [
+        2536,
+        246,
+        2795,
+        329
+      ]
+    },
+    {
+      "class": "truck",
+      "confidence": 0.184,
+      "bbox": [
+        3076,
+        0,
+        3837,
+        988
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.145,
+      "bbox": [
+        18,
+        286,
+        3807,
+        1563
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.139,
+      "bbox": [
+        16,
+        427,
+        2393,
+        1424
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.12,
+      "bbox": [
+        6,
+        400,
+        3278,
+        1386
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.119,
+      "bbox": [
+        35,
+        209,
+        2488,
+        1285
+      ]
+    }
+  ],
+  "frame25.png": [
+    {
+      "class": "car",
+      "confidence": 0.857,
+      "bbox": [
+        2196,
+        263,
+        3007,
+        1078
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.845,
+      "bbox": [
+        0,
+        7,
+        453,
+        620
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.833,
+      "bbox": [
+        0,
+        398,
+        2800,
+        2088
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.796,
+      "bbox": [
+        863,
+        33,
+        1240,
+        923
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.776,
+      "bbox": [
+        416,
+        144,
+        661,
+        503
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.662,
+      "bbox": [
+        2894,
+        0,
+        3837,
+        959
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.554,
+      "bbox": [
+        1184,
+        155,
+        2263,
+        1154
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.439,
+      "bbox": [
+        525,
+        158,
+        2273,
+        1164
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.292,
+      "bbox": [
+        2338,
+        211,
+        2592,
+        298
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.287,
+      "bbox": [
+        597,
+        34,
+        1242,
+        926
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.136,
+      "bbox": [
+        517,
+        337,
+        892,
+        595
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.131,
+      "bbox": [
+        523,
+        330,
+        1412,
+        626
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.12,
+      "bbox": [
+        521,
+        331,
+        1434,
+        784
+      ]
+    }
+  ],
+  "frame26.png": [
+    {
+      "class": "car",
+      "confidence": 0.885,
+      "bbox": [
+        370,
+        125,
+        2085,
+        1153
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.864,
+      "bbox": [
+        2011,
+        216,
+        2834,
+        1035
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.779,
+      "bbox": [
+        812,
+        0,
+        1236,
+        1171
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.754,
+      "bbox": [
+        2,
+        849,
+        1657,
+        2078
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.709,
+      "bbox": [
+        98,
+        322,
+        449,
+        1033
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.672,
+      "bbox": [
+        238,
+        86,
+        526,
+        455
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.564,
+      "bbox": [
+        0,
+        0,
+        153,
+        1355
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.246,
+      "bbox": [
+        2705,
+        22,
+        3838,
+        909
+      ]
+    },
+    {
+      "class": "truck",
+      "confidence": 0.206,
+      "bbox": [
+        2711,
+        73,
+        3838,
+        913
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.168,
+      "bbox": [
+        340,
+        301,
+        860,
+        1050
+      ]
+    },
+    {
+      "class": "bench",
+      "confidence": 0.166,
+      "bbox": [
+        3443,
+        1695,
+        3838,
+        1995
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.164,
+      "bbox": [
+        3087,
+        322,
+        3839,
+        908
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.122,
+      "bbox": [
+        0,
+        3,
+        153,
+        955
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.11,
+      "bbox": [
+        2724,
+        263,
+        3837,
+        909
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.109,
+      "bbox": [
+        419,
+        304,
+        1293,
+        1115
+      ]
+    }
+  ],
+  "frame27.png": [
+    {
+      "class": "car",
+      "confidence": 0.917,
+      "bbox": [
+        1856,
+        214,
+        2678,
+        1047
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.88,
+      "bbox": [
+        0,
+        319,
+        290,
+        1106
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.815,
+      "bbox": [
+        597,
+        26,
+        1470,
+        1619
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.728,
+      "bbox": [
+        0,
+        1165,
+        562,
+        2084
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.711,
+      "bbox": [
+        316,
+        112,
+        1933,
+        1168
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.615,
+      "bbox": [
+        3707,
+        1029,
+        3839,
+        1785
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.589,
+      "bbox": [
+        2541,
+        6,
+        3840,
+        914
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.567,
+      "bbox": [
+        185,
+        301,
+        691,
+        990
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.522,
+      "bbox": [
+        115,
+        115,
+        399,
+        461
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.456,
+      "bbox": [
+        1070,
+        110,
+        1933,
+        1159
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.393,
+      "bbox": [
+        343,
+        213,
+        1577,
+        1171
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.231,
+      "bbox": [
+        2555,
+        307,
+        3837,
+        917
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.17,
+      "bbox": [
+        868,
+        1192,
+        1270,
+        1613
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.16,
+      "bbox": [
+        2003,
+        170,
+        2254,
+        247
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.149,
+      "bbox": [
+        334,
+        196,
+        937,
+        1191
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.146,
+      "bbox": [
+        868,
+        1203,
+        1516,
+        1622
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.139,
+      "bbox": [
+        902,
+        1267,
+        1253,
+        1578
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.121,
+      "bbox": [
+        3287,
+        1030,
+        3839,
+        2012
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.101,
+      "bbox": [
+        175,
+        293,
+        690,
+        545
+      ]
+    }
+  ],
+  "frame28.png": [
+    {
+      "class": "car",
+      "confidence": 0.92,
+      "bbox": [
+        1705,
+        222,
+        2528,
+        1039
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.876,
+      "bbox": [
+        582,
+        31,
+        1325,
+        1628
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.835,
+      "bbox": [
+        2418,
+        0,
+        3838,
+        922
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.762,
+      "bbox": [
+        0,
+        394,
+        144,
+        1105
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.76,
+      "bbox": [
+        154,
+        84,
+        1782,
+        1155
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.607,
+      "bbox": [
+        886,
+        1246,
+        1509,
+        1651
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.579,
+      "bbox": [
+        21,
+        292,
+        545,
+        1008
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.556,
+      "bbox": [
+        0,
+        113,
+        287,
+        466
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.532,
+      "bbox": [
+        1191,
+        126,
+        1783,
+        1102
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.446,
+      "bbox": [
+        561,
+        53,
+        1651,
+        1370
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.232,
+      "bbox": [
+        200,
+        118,
+        2392,
+        1172
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.194,
+      "bbox": [
+        1044,
+        885,
+        1183,
+        1119
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.188,
+      "bbox": [
+        1853,
+        174,
+        2105,
+        252
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.141,
+      "bbox": [
+        3550,
+        1038,
+        3755,
+        1799
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.108,
+      "bbox": [
+        907,
+        1277,
+        1148,
+        1598
+      ]
+    }
+  ],
+  "frame29.png": [
+    {
+      "class": "bus",
+      "confidence": 0.925,
+      "bbox": [
+        2253,
+        3,
+        3837,
+        942
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.907,
+      "bbox": [
+        1555,
+        251,
+        2363,
+        1069
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.796,
+      "bbox": [
+        765,
+        45,
+        1311,
+        1675
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.788,
+      "bbox": [
+        1093,
+        1290,
+        1520,
+        1632
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.762,
+      "bbox": [
+        0,
+        152,
+        1717,
+        1209
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.563,
+      "bbox": [
+        0,
+        318,
+        375,
+        1029
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.235,
+      "bbox": [
+        3375,
+        1071,
+        3580,
+        1812
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.19,
+      "bbox": [
+        857,
+        149,
+        1606,
+        1135
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.181,
+      "bbox": [
+        1686,
+        203,
+        1947,
+        286
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.155,
+      "bbox": [
+        3747,
+        970,
+        3839,
+        1602
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.153,
+      "bbox": [
+        1535,
+        274,
+        1992,
+        627
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.14,
+      "bbox": [
+        756,
+        847,
+        1235,
+        1676
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.132,
+      "bbox": [
+        1184,
+        163,
+        1607,
+        1132
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.13,
+      "bbox": [
+        0,
+        320,
+        364,
+        581
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.119,
+      "bbox": [
+        862,
+        12,
+        1332,
+        1482
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.112,
+      "bbox": [
+        0,
+        122,
+        152,
+        386
+      ]
+    }
+  ],
+  "frame3.png": [
+    {
+      "class": "person",
+      "confidence": 0.899,
+      "bbox": [
+        901,
+        158,
+        1357,
+        1597
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.874,
+      "bbox": [
+        1209,
+        1234,
+        1732,
+        1568
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.823,
+      "bbox": [
+        3108,
+        206,
+        3546,
+        1493
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.814,
+      "bbox": [
+        2805,
+        209,
+        3161,
+        614
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.79,
+      "bbox": [
+        2514,
+        422,
+        3840,
+        1230
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.36,
+      "bbox": [
+        771,
+        961,
+        896,
+        1435
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.325,
+      "bbox": [
+        3422,
+        422,
+        3838,
+        1249
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.184,
+      "bbox": [
+        2510,
+        427,
+        3215,
+        1186
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.134,
+      "bbox": [
+        2960,
+        222,
+        3633,
+        1439
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.123,
+      "bbox": [
+        3582,
+        237,
+        3707,
+        451
+      ]
+    }
+  ],
+  "frame30.png": [
+    {
+      "class": "person",
+      "confidence": 0.879,
+      "bbox": [
+        760,
+        99,
+        1363,
+        1746
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.806,
+      "bbox": [
+        2074,
+        1,
+        3807,
+        1004
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.746,
+      "bbox": [
+        1367,
+        277,
+        2186,
+        1110
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.554,
+      "bbox": [
+        111,
+        260,
+        2181,
+        1137
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.553,
+      "bbox": [
+        0,
+        201,
+        1771,
+        1253
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.357,
+      "bbox": [
+        3205,
+        1117,
+        3406,
+        1864
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.314,
+      "bbox": [
+        1145,
+        1348,
+        1526,
+        1696
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.303,
+      "bbox": [
+        0,
+        211,
+        946,
+        1243
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.189,
+      "bbox": [
+        0,
+        376,
+        196,
+        631
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.185,
+      "bbox": [
+        1512,
+        247,
+        1773,
+        330
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.18,
+      "bbox": [
+        1168,
+        120,
+        1450,
+        1170
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.154,
+      "bbox": [
+        886,
+        1339,
+        1528,
+        1698
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.135,
+      "bbox": [
+        3770,
+        15,
+        3839,
+        856
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.125,
+      "bbox": [
+        3565,
+        1028,
+        3709,
+        1640
+      ]
+    }
+  ],
+  "frame31.png": [
+    {
+      "class": "person",
+      "confidence": 0.881,
+      "bbox": [
+        586,
+        142,
+        1399,
+        1769
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.704,
+      "bbox": [
+        51,
+        277,
+        2007,
+        1116
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.651,
+      "bbox": [
+        1910,
+        2,
+        3645,
+        1016
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.645,
+      "bbox": [
+        3608,
+        457,
+        3838,
+        874
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.547,
+      "bbox": [
+        1155,
+        286,
+        2011,
+        1118
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.511,
+      "bbox": [
+        0,
+        210,
+        1030,
+        1238
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.463,
+      "bbox": [
+        3611,
+        1035,
+        3838,
+        1983
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.408,
+      "bbox": [
+        3021,
+        1134,
+        3222,
+        1881
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.265,
+      "bbox": [
+        3379,
+        1043,
+        3532,
+        1664
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.227,
+      "bbox": [
+        4,
+        189,
+        1766,
+        1247
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.162,
+      "bbox": [
+        1336,
+        256,
+        1595,
+        336
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.118,
+      "bbox": [
+        3746,
+        462,
+        3838,
+        596
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.105,
+      "bbox": [
+        1908,
+        423,
+        3144,
+        1012
+      ]
+    }
+  ],
+  "frame32.png": [
+    {
+      "class": "car",
+      "confidence": 0.773,
+      "bbox": [
+        0,
+        232,
+        1859,
+        1143
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.738,
+      "bbox": [
+        1768,
+        2,
+        3561,
+        1005
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.653,
+      "bbox": [
+        880,
+        128,
+        1339,
+        1180
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.628,
+      "bbox": [
+        3453,
+        453,
+        3674,
+        869
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.62,
+      "bbox": [
+        3542,
+        458,
+        3838,
+        813
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.605,
+      "bbox": [
+        2860,
+        1127,
+        3064,
+        1867
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.581,
+      "bbox": [
+        480,
+        181,
+        1869,
+        1173
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.508,
+      "bbox": [
+        3452,
+        1016,
+        3712,
+        1984
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.389,
+      "bbox": [
+        653,
+        208,
+        1374,
+        1773
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.307,
+      "bbox": [
+        1205,
+        290,
+        1856,
+        1105
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.276,
+      "bbox": [
+        997,
+        996,
+        1133,
+        1285
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.269,
+      "bbox": [
+        646,
+        992,
+        1544,
+        1769
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.213,
+      "bbox": [
+        0,
+        202,
+        697,
+        1215
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.211,
+      "bbox": [
+        3231,
+        1034,
+        3376,
+        1639
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.186,
+      "bbox": [
+        1248,
+        238,
+        1441,
+        327
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.181,
+      "bbox": [
+        1765,
+        423,
+        2223,
+        919
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.156,
+      "bbox": [
+        642,
+        1190,
+        1549,
+        1753
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.152,
+      "bbox": [
+        0,
+        196,
+        993,
+        1217
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.133,
+      "bbox": [
+        3639,
+        365,
+        3741,
+        444
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.122,
+      "bbox": [
+        1188,
+        1406,
+        1550,
+        1729
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.121,
+      "bbox": [
+        3288,
+        458,
+        3679,
+        877
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.112,
+      "bbox": [
+        994,
+        973,
+        1209,
+        1287
+      ]
+    }
+  ],
+  "frame33.png": [
+    {
+      "class": "person",
+      "confidence": 0.886,
+      "bbox": [
+        882,
+        5,
+        1325,
+        1693
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.881,
+      "bbox": [
+        0,
+        73,
+        941,
+        1118
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.8,
+      "bbox": [
+        1586,
+        0,
+        3356,
+        905
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.658,
+      "bbox": [
+        2715,
+        1030,
+        2922,
+        1770
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.633,
+      "bbox": [
+        1230,
+        196,
+        1708,
+        979
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.577,
+      "bbox": [
+        3452,
+        369,
+        3705,
+        714
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.513,
+      "bbox": [
+        3303,
+        357,
+        3522,
+        774
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.428,
+      "bbox": [
+        3075,
+        944,
+        3220,
+        1550
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.427,
+      "bbox": [
+        873,
+        1309,
+        1562,
+        1658
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.403,
+      "bbox": [
+        3306,
+        914,
+        3553,
+        1881
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.262,
+      "bbox": [
+        1059,
+        1311,
+        1559,
+        1641
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.198,
+      "bbox": [
+        280,
+        202,
+        1714,
+        988
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.185,
+      "bbox": [
+        3328,
+        898,
+        3562,
+        1447
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.182,
+      "bbox": [
+        859,
+        199,
+        1701,
+        981
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.133,
+      "bbox": [
+        455,
+        70,
+        787,
+        141
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.12,
+      "bbox": [
+        1916,
+        176,
+        2022,
+        340
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.12,
+      "bbox": [
+        3330,
+        363,
+        3704,
+        737
+      ]
+    }
+  ],
+  "frame34.png": [
+    {
+      "class": "person",
+      "confidence": 0.863,
+      "bbox": [
+        763,
+        55,
+        1547,
+        1711
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.862,
+      "bbox": [
+        1459,
+        0,
+        3218,
+        914
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.841,
+      "bbox": [
+        0,
+        81,
+        817,
+        1127
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.753,
+      "bbox": [
+        2557,
+        1043,
+        2770,
+        1791
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.669,
+      "bbox": [
+        3650,
+        435,
+        3839,
+        1301
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.665,
+      "bbox": [
+        3142,
+        941,
+        3392,
+        1896
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.642,
+      "bbox": [
+        3296,
+        381,
+        3555,
+        737
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.587,
+      "bbox": [
+        3157,
+        366,
+        3382,
+        795
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.472,
+      "bbox": [
+        781,
+        69,
+        1553,
+        981
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.301,
+      "bbox": [
+        1762,
+        182,
+        1887,
+        348
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.182,
+      "bbox": [
+        1232,
+        212,
+        1560,
+        990
+      ]
+    },
+    {
+      "class": "umbrella",
+      "confidence": 0.169,
+      "bbox": [
+        895,
+        150,
+        1149,
+        233
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.138,
+      "bbox": [
+        761,
+        158,
+        1626,
+        852
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.126,
+      "bbox": [
+        1127,
+        893,
+        1296,
+        1145
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.124,
+      "bbox": [
+        772,
+        202,
+        1157,
+        935
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.124,
+      "bbox": [
+        3291,
+        875,
+        3508,
+        1420
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.11,
+      "bbox": [
+        2933,
+        955,
+        3078,
+        1574
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.103,
+      "bbox": [
+        1007,
+        1223,
+        1564,
+        1712
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.101,
+      "bbox": [
+        770,
+        224,
+        1439,
+        971
+      ]
+    }
+  ],
+  "frame35.png": [
+    {
+      "class": "person",
+      "confidence": 0.866,
+      "bbox": [
+        595,
+        127,
+        1523,
+        1770
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.857,
+      "bbox": [
+        1,
+        137,
+        624,
+        1169
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.848,
+      "bbox": [
+        1296,
+        2,
+        3015,
+        965
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.808,
+      "bbox": [
+        3455,
+        355,
+        3838,
+        1324
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.742,
+      "bbox": [
+        2953,
+        996,
+        3221,
+        1952
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.702,
+      "bbox": [
+        573,
+        261,
+        1035,
+        1066
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.475,
+      "bbox": [
+        3028,
+        417,
+        3362,
+        784
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.449,
+      "bbox": [
+        2372,
+        1092,
+        2571,
+        1830
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.426,
+      "bbox": [
+        2966,
+        418,
+        3196,
+        843
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.327,
+      "bbox": [
+        930,
+        1275,
+        1559,
+        1781
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.273,
+      "bbox": [
+        928,
+        1274,
+        1294,
+        1726
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.229,
+      "bbox": [
+        566,
+        264,
+        1325,
+        1067
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.191,
+      "bbox": [
+        3018,
+        934,
+        3313,
+        1479
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.187,
+      "bbox": [
+        705,
+        196,
+        965,
+        277
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.11,
+      "bbox": [
+        3175,
+        923,
+        3310,
+        1481
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.104,
+      "bbox": [
+        1296,
+        382,
+        1747,
+        887
+      ]
+    }
+  ],
+  "frame36.png": [
+    {
+      "class": "person",
+      "confidence": 0.896,
+      "bbox": [
+        687,
+        163,
+        1398,
+        1830
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.763,
+      "bbox": [
+        1276,
+        5,
+        2813,
+        1006
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.755,
+      "bbox": [
+        365,
+        293,
+        1057,
+        1131
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.683,
+      "bbox": [
+        0,
+        172,
+        421,
+        1169
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.683,
+      "bbox": [
+        3248,
+        396,
+        3838,
+        1409
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.631,
+      "bbox": [
+        2768,
+        461,
+        2991,
+        887
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.562,
+      "bbox": [
+        2903,
+        469,
+        3154,
+        826
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.511,
+      "bbox": [
+        2748,
+        1013,
+        3015,
+        1993
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.355,
+      "bbox": [
+        2167,
+        1139,
+        2369,
+        1887
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.291,
+      "bbox": [
+        514,
+        242,
+        771,
+        332
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.224,
+      "bbox": [
+        1270,
+        437,
+        1546,
+        873
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.186,
+      "bbox": [
+        1277,
+        403,
+        2822,
+        1007
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.169,
+      "bbox": [
+        2812,
+        460,
+        3163,
+        852
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.146,
+      "bbox": [
+        3272,
+        404,
+        3839,
+        1011
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.137,
+      "bbox": [
+        353,
+        311,
+        825,
+        645
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.119,
+      "bbox": [
+        2864,
+        977,
+        3119,
+        1536
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.111,
+      "bbox": [
+        2642,
+        466,
+        3004,
+        888
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.109,
+      "bbox": [
+        3341,
+        404,
+        3838,
+        835
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.107,
+      "bbox": [
+        890,
+        432,
+        1542,
+        899
+      ]
+    }
+  ],
+  "frame37.png": [
+    {
+      "class": "car",
+      "confidence": 0.92,
+      "bbox": [
+        164,
+        324,
+        931,
+        1155
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.891,
+      "bbox": [
+        860,
+        189,
+        1359,
+        1893
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.79,
+      "bbox": [
+        0,
+        229,
+        216,
+        1194
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.648,
+      "bbox": [
+        3035,
+        433,
+        3763,
+        1421
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.635,
+      "bbox": [
+        2531,
+        1061,
+        2817,
+        2038
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.623,
+      "bbox": [
+        1207,
+        2,
+        2601,
+        1044
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.481,
+      "bbox": [
+        2560,
+        495,
+        2800,
+        918
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.338,
+      "bbox": [
+        2632,
+        506,
+        2941,
+        842
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.336,
+      "bbox": [
+        247,
+        0,
+        2611,
+        1045
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.298,
+      "bbox": [
+        1954,
+        1174,
+        2163,
+        1903
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.256,
+      "bbox": [
+        2329,
+        1081,
+        2472,
+        1695
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.244,
+      "bbox": [
+        293,
+        270,
+        557,
+        361
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.197,
+      "bbox": [
+        2567,
+        495,
+        2942,
+        903
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.15,
+      "bbox": [
+        1130,
+        1538,
+        1441,
+        1854
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.114,
+      "bbox": [
+        2748,
+        1008,
+        2884,
+        1539
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.111,
+      "bbox": [
+        834,
+        235,
+        1127,
+        659
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.106,
+      "bbox": [
+        144,
+        333,
+        621,
+        659
+      ]
+    }
+  ],
+  "frame38.png": [
+    {
+      "class": "person",
+      "confidence": 0.891,
+      "bbox": [
+        623,
+        243,
+        1373,
+        1925
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.866,
+      "bbox": [
+        0,
+        335,
+        727,
+        1178
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.79,
+      "bbox": [
+        53,
+        0,
+        2365,
+        1055
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.774,
+      "bbox": [
+        2794,
+        468,
+        3835,
+        1446
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.631,
+      "bbox": [
+        2283,
+        1108,
+        2536,
+        2062
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.61,
+      "bbox": [
+        2342,
+        531,
+        2697,
+        913
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.598,
+      "bbox": [
+        1714,
+        1202,
+        1919,
+        1943
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.423,
+      "bbox": [
+        910,
+        1,
+        2358,
+        1046
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.4,
+      "bbox": [
+        805,
+        1552,
+        1246,
+        1913
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.394,
+      "bbox": [
+        640,
+        497,
+        920,
+        948
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.264,
+      "bbox": [
+        2090,
+        1116,
+        2227,
+        1722
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.252,
+      "bbox": [
+        2473,
+        1035,
+        2650,
+        1596
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.135,
+      "bbox": [
+        2923,
+        498,
+        3079,
+        729
+      ]
+    }
+  ],
+  "frame39.png": [
+    {
+      "class": "car",
+      "confidence": 0.841,
+      "bbox": [
+        2498,
+        448,
+        3759,
+        1452
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.826,
+      "bbox": [
+        667,
+        235,
+        1341,
+        1892
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.742,
+      "bbox": [
+        443,
+        0,
+        2071,
+        1013
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.741,
+      "bbox": [
+        2001,
+        1106,
+        2273,
+        2052
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.686,
+      "bbox": [
+        3602,
+        571,
+        3838,
+        1148
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.677,
+      "bbox": [
+        2046,
+        524,
+        2405,
+        901
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.374,
+      "bbox": [
+        1418,
+        1194,
+        1627,
+        1930
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.289,
+      "bbox": [
+        938,
+        1068,
+        1179,
+        1370
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.244,
+      "bbox": [
+        939,
+        1090,
+        1114,
+        1365
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.241,
+      "bbox": [
+        2512,
+        472,
+        3087,
+        1395
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.209,
+      "bbox": [
+        3067,
+        441,
+        3767,
+        1417
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.195,
+      "bbox": [
+        3688,
+        574,
+        3838,
+        1185
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.166,
+      "bbox": [
+        2634,
+        485,
+        2792,
+        725
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.154,
+      "bbox": [
+        1796,
+        1109,
+        1939,
+        1719
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.14,
+      "bbox": [
+        3349,
+        457,
+        3757,
+        1407
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.132,
+      "bbox": [
+        2783,
+        461,
+        2915,
+        523
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.121,
+      "bbox": [
+        2740,
+        461,
+        2920,
+        546
+      ]
+    }
+  ],
+  "frame4.png": [
+    {
+      "class": "person",
+      "confidence": 0.923,
+      "bbox": [
+        2673,
+        229,
+        3364,
+        1493
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.919,
+      "bbox": [
+        797,
+        163,
+        1457,
+        1596
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.578,
+      "bbox": [
+        1316,
+        1246,
+        1728,
+        1562
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.538,
+      "bbox": [
+        2380,
+        371,
+        3800,
+        1233
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.241,
+      "bbox": [
+        3177,
+        407,
+        3840,
+        1240
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.225,
+      "bbox": [
+        2733,
+        207,
+        2992,
+        603
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.151,
+      "bbox": [
+        2369,
+        345,
+        2987,
+        1227
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.151,
+      "bbox": [
+        3114,
+        541,
+        3359,
+        989
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.13,
+      "bbox": [
+        634,
+        934,
+        758,
+        1478
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.12,
+      "bbox": [
+        1532,
+        390,
+        1707,
+        791
+      ]
+    }
+  ],
+  "frame40.png": [
+    {
+      "class": "car",
+      "confidence": 0.84,
+      "bbox": [
+        3304,
+        595,
+        3733,
+        1207
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.757,
+      "bbox": [
+        2205,
+        440,
+        3448,
+        1446
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.678,
+      "bbox": [
+        686,
+        178,
+        1174,
+        2088
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.648,
+      "bbox": [
+        1712,
+        1089,
+        1981,
+        2043
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.638,
+      "bbox": [
+        3542,
+        574,
+        3839,
+        1135
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.624,
+      "bbox": [
+        1754,
+        511,
+        2110,
+        904
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.432,
+      "bbox": [
+        1129,
+        1175,
+        1327,
+        1930
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.431,
+      "bbox": [
+        627,
+        180,
+        1172,
+        2103
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.328,
+      "bbox": [
+        1501,
+        1092,
+        1643,
+        1705
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.322,
+      "bbox": [
+        75,
+        0,
+        1776,
+        994
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.227,
+      "bbox": [
+        786,
+        2,
+        1778,
+        988
+      ]
+    },
+    {
+      "class": "traffic light",
+      "confidence": 0.163,
+      "bbox": [
+        2529,
+        31,
+        2637,
+        226
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.13,
+      "bbox": [
+        1747,
+        515,
+        1976,
+        925
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.108,
+      "bbox": [
+        3625,
+        587,
+        3838,
+        1163
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.104,
+      "bbox": [
+        2790,
+        417,
+        3459,
+        1397
+      ]
+    }
+  ],
+  "frame41.png": [
+    {
+      "class": "car",
+      "confidence": 0.913,
+      "bbox": [
+        2991,
+        580,
+        3464,
+        1198
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.909,
+      "bbox": [
+        1896,
+        420,
+        3151,
+        1432
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.562,
+      "bbox": [
+        3257,
+        571,
+        3580,
+        1102
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.468,
+      "bbox": [
+        3500,
+        539,
+        3833,
+        937
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.46,
+      "bbox": [
+        3636,
+        559,
+        3825,
+        929
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.449,
+      "bbox": [
+        3484,
+        587,
+        3742,
+        1027
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.412,
+      "bbox": [
+        1436,
+        494,
+        1667,
+        914
+      ]
+    },
+    {
+      "class": "bus",
+      "confidence": 0.403,
+      "bbox": [
+        624,
+        4,
+        1482,
+        932
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.387,
+      "bbox": [
+        1480,
+        490,
+        1801,
+        806
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.366,
+      "bbox": [
+        1378,
+        1052,
+        1671,
+        2031
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.311,
+      "bbox": [
+        791,
+        1032,
+        1087,
+        1759
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.309,
+      "bbox": [
+        433,
+        142,
+        1064,
+        2111
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.284,
+      "bbox": [
+        1448,
+        490,
+        1796,
+        904
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.259,
+      "bbox": [
+        1574,
+        501,
+        1802,
+        800
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.179,
+      "bbox": [
+        594,
+        144,
+        1073,
+        2008
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.155,
+      "bbox": [
+        1193,
+        1077,
+        1330,
+        1691
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.147,
+      "bbox": [
+        1444,
+        1083,
+        1660,
+        1454
+      ]
+    },
+    {
+      "class": "parking meter",
+      "confidence": 0.13,
+      "bbox": [
+        2445,
+        615,
+        2869,
+        1506
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.12,
+      "bbox": [
+        1420,
+        1063,
+        1681,
+        1604
+      ]
+    }
+  ],
+  "frame5.png": [
+    {
+      "class": "person",
+      "confidence": 0.918,
+      "bbox": [
+        645,
+        178,
+        1446,
+        1582
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.888,
+      "bbox": [
+        2531,
+        240,
+        3110,
+        1481
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.543,
+      "bbox": [
+        2157,
+        383,
+        3837,
+        1237
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.457,
+      "bbox": [
+        2847,
+        399,
+        3838,
+        1225
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.453,
+      "bbox": [
+        2789,
+        196,
+        2952,
+        409
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.276,
+      "bbox": [
+        2204,
+        541,
+        3216,
+        1234
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.241,
+      "bbox": [
+        455,
+        944,
+        604,
+        1475
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.23,
+      "bbox": [
+        2801,
+        514,
+        3033,
+        996
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.19,
+      "bbox": [
+        2695,
+        440,
+        3030,
+        1021
+      ]
+    },
+    {
+      "class": "traffic light",
+      "confidence": 0.169,
+      "bbox": [
+        1732,
+        363,
+        1802,
+        532
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.166,
+      "bbox": [
+        967,
+        930,
+        1094,
+        1149
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.159,
+      "bbox": [
+        1297,
+        1239,
+        1721,
+        1557
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.132,
+      "bbox": [
+        2843,
+        634,
+        3031,
+        1001
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.131,
+      "bbox": [
+        463,
+        942,
+        591,
+        1268
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.119,
+      "bbox": [
+        2860,
+        718,
+        3025,
+        994
+      ]
+    },
+    {
+      "class": "skateboard",
+      "confidence": 0.114,
+      "bbox": [
+        1291,
+        1239,
+        1722,
+        1553
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.109,
+      "bbox": [
+        1365,
+        389,
+        1848,
+        790
+      ]
+    }
+  ],
+  "frame6.png": [
+    {
+      "class": "person",
+      "confidence": 0.903,
+      "bbox": [
+        3421,
+        145,
+        3834,
+        1493
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.901,
+      "bbox": [
+        706,
+        146,
+        1335,
+        1555
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.814,
+      "bbox": [
+        1184,
+        1183,
+        1712,
+        1560
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.806,
+      "bbox": [
+        2300,
+        209,
+        2708,
+        1458
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.652,
+      "bbox": [
+        1995,
+        392,
+        3666,
+        1225
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.608,
+      "bbox": [
+        2576,
+        171,
+        2880,
+        409
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.557,
+      "bbox": [
+        2595,
+        389,
+        3667,
+        1235
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.304,
+      "bbox": [
+        2063,
+        625,
+        3228,
+        1254
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.236,
+      "bbox": [
+        2058,
+        661,
+        2739,
+        1226
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.21,
+      "bbox": [
+        2354,
+        378,
+        2715,
+        1013
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.196,
+      "bbox": [
+        2501,
+        404,
+        2715,
+        987
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.19,
+      "bbox": [
+        301,
+        942,
+        447,
+        1471
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.179,
+      "bbox": [
+        2534,
+        547,
+        2711,
+        976
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.174,
+      "bbox": [
+        2607,
+        389,
+        3152,
+        677
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.148,
+      "bbox": [
+        2528,
+        694,
+        2709,
+        974
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.129,
+      "bbox": [
+        2057,
+        669,
+        2371,
+        1196
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.128,
+      "bbox": [
+        2256,
+        449,
+        2711,
+        984
+      ]
+    }
+  ],
+  "frame7.png": [
+    {
+      "class": "dog",
+      "confidence": 0.917,
+      "bbox": [
+        1190,
+        1187,
+        1684,
+        1571
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.91,
+      "bbox": [
+        3167,
+        179,
+        3837,
+        1514
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.869,
+      "bbox": [
+        811,
+        109,
+        1329,
+        1594
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.854,
+      "bbox": [
+        2035,
+        223,
+        2449,
+        1483
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.681,
+      "bbox": [
+        2368,
+        406,
+        3392,
+        1233
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.628,
+      "bbox": [
+        2450,
+        208,
+        2747,
+        429
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.465,
+      "bbox": [
+        150,
+        950,
+        276,
+        1484
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.313,
+      "bbox": [
+        2195,
+        392,
+        2465,
+        1019
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.198,
+      "bbox": [
+        758,
+        880,
+        853,
+        1349
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.156,
+      "bbox": [
+        2406,
+        401,
+        2993,
+        692
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.153,
+      "bbox": [
+        1901,
+        769,
+        2546,
+        1201
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.152,
+      "bbox": [
+        145,
+        958,
+        291,
+        1487
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.149,
+      "bbox": [
+        2435,
+        203,
+        2748,
+        696
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.133,
+      "bbox": [
+        2375,
+        406,
+        2995,
+        889
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.124,
+      "bbox": [
+        1916,
+        413,
+        3411,
+        1247
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.121,
+      "bbox": [
+        2053,
+        534,
+        2465,
+        999
+      ]
+    },
+    {
+      "class": "traffic light",
+      "confidence": 0.107,
+      "bbox": [
+        933,
+        21,
+        1142,
+        100
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.106,
+      "bbox": [
+        3764,
+        358,
+        3839,
+        1345
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.104,
+      "bbox": [
+        1899,
+        764,
+        2197,
+        1211
+      ]
+    }
+  ],
+  "frame8.png": [
+    {
+      "class": "person",
+      "confidence": 0.909,
+      "bbox": [
+        1755,
+        282,
+        2234,
+        1505
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.902,
+      "bbox": [
+        1172,
+        1236,
+        1675,
+        1595
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.895,
+      "bbox": [
+        752,
+        176,
+        1321,
+        1625
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.877,
+      "bbox": [
+        3004,
+        182,
+        3598,
+        1538
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.713,
+      "bbox": [
+        2373,
+        216,
+        2646,
+        431
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.623,
+      "bbox": [
+        2170,
+        418,
+        3192,
+        1249
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.592,
+      "bbox": [
+        2171,
+        421,
+        3760,
+        1249
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.558,
+      "bbox": [
+        3502,
+        268,
+        3839,
+        1176
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.387,
+      "bbox": [
+        1958,
+        455,
+        2226,
+        1046
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.352,
+      "bbox": [
+        1,
+        978,
+        129,
+        1511
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.35,
+      "bbox": [
+        2126,
+        417,
+        2853,
+        951
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.244,
+      "bbox": [
+        2134,
+        416,
+        2848,
+        709
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.215,
+      "bbox": [
+        1754,
+        879,
+        1894,
+        1186
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.177,
+      "bbox": [
+        1909,
+        579,
+        2225,
+        1046
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.141,
+      "bbox": [
+        2033,
+        568,
+        2225,
+        1045
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.137,
+      "bbox": [
+        2496,
+        229,
+        3838,
+        1245
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.116,
+      "bbox": [
+        8,
+        965,
+        139,
+        1514
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.107,
+      "bbox": [
+        2031,
+        718,
+        2225,
+        1048
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.103,
+      "bbox": [
+        1754,
+        425,
+        3164,
+        1254
+      ]
+    }
+  ],
+  "frame9.png": [
+    {
+      "class": "person",
+      "confidence": 0.92,
+      "bbox": [
+        636,
+        181,
+        1295,
+        1629
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.873,
+      "bbox": [
+        2792,
+        168,
+        3349,
+        1535
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.863,
+      "bbox": [
+        1546,
+        268,
+        1969,
+        1495
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.839,
+      "bbox": [
+        3307,
+        221,
+        3837,
+        1265
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.814,
+      "bbox": [
+        1184,
+        1220,
+        1672,
+        1598
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.707,
+      "bbox": [
+        2275,
+        210,
+        2557,
+        430
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.578,
+      "bbox": [
+        3221,
+        391,
+        3638,
+        1083
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.524,
+      "bbox": [
+        1811,
+        427,
+        2887,
+        1257
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.466,
+      "bbox": [
+        1811,
+        419,
+        3487,
+        1265
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.376,
+      "bbox": [
+        1724,
+        461,
+        1966,
+        1035
+      ]
+    },
+    {
+      "class": "fire hydrant",
+      "confidence": 0.361,
+      "bbox": [
+        447,
+        902,
+        568,
+        1355
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.349,
+      "bbox": [
+        3093,
+        215,
+        3267,
+        1152
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.227,
+      "bbox": [
+        1769,
+        547,
+        1961,
+        1036
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.206,
+      "bbox": [
+        1790,
+        654,
+        1962,
+        1036
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.138,
+      "bbox": [
+        3646,
+        135,
+        3839,
+        403
+      ]
+    },
+    {
+      "class": "handbag",
+      "confidence": 0.132,
+      "bbox": [
+        1587,
+        503,
+        1963,
+        1036
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.121,
+      "bbox": [
+        1904,
+        414,
+        2704,
+        719
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.119,
+      "bbox": [
+        1892,
+        416,
+        2707,
+        846
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.105,
+      "bbox": [
+        635,
+        24,
+        897,
+        697
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.102,
+      "bbox": [
+        3086,
+        200,
+        3262,
+        793
+      ]
+    }
+  ]
+}
